@@ -1,0 +1,27 @@
+{
+    "project_type":"javascript",
+    "debugMode":1,
+    "showFPS":false,
+    "frameRate":60,
+    "id":"gameCanvas",
+    "renderMode":0,
+    "engineDir":"frameworks/cocos2d-html5",
+    "modules":[
+        "cocos2d"
+    ],
+    "jsList":[
+        "src/config/Resource.js",
+        "src/config/GameConfig.js",
+        "src/layer/GameLayer.js",
+        "src/layer/GameControlMenu.js",
+        "src/layer/GameOver.js",
+        "src/layer/AboutLayer.js",
+        "src/layer/SettingsLayer.js",
+        "src/layer/SysMenu.js",
+        "src/effect/Effect.js",
+        "src/sprite/Keeper.js",
+        "src/sprite/Hammer.js",
+        "src/sprite/Mole.js",
+        "src/sprite/Target.js"
+    ]
+}
